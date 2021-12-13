@@ -1,0 +1,14 @@
+com/example/stores/databinding/ActivityMainBinding.java
+ com.example.stores.databinding.ActivityMainBinding
+com/example/stores/BuildConfig.java
+ com.example.stores.BuildConfig
+com/example/stores/StoreDao_Impl.java
+ com.example.stores.StoreDao_Impl
+ com.example.stores.StoreDao_Impl$1
+ com.example.stores.StoreDao_Impl$2
+ com.example.stores.StoreDao_Impl$3
+com/example/stores/databinding/ItemStoreBinding.java
+ com.example.stores.databinding.ItemStoreBinding
+com/example/stores/StoreDatabase_Impl.java
+ com.example.stores.StoreDatabase_Impl
+ com.example.stores.StoreDatabase_Impl$1

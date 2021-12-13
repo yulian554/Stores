@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tiendas</string>
+    <string name="image_card">card Image</string>
+    <string name="fab_button">boton flotante</string>
+    <string name="save">SAVE</string>
+    <string name="nombre_de_la_tienda">Nombre de la tienda</string>
+</resources>
